@@ -4,13 +4,7 @@
 ---
 
 ## 🏆 Key Achievements & Milestones
-
-- 🎓 Member, GitHub Student Developer Pack
-- 🏅 Completed multiple end-to-end ML projects (Diabetes Risk, Tumor Prediction, House Price)
-- 🌟 Consistent contributor to open-source & collaborative AI initiatives
-- 🚀 Built interactive ML apps with front-end skills
-- 💡 Continuous learner in deep learning and advanced AI
-
+-  Shortlisted – National AI Wrapper Competition 2025 (Ignite × MoITT) for HeartCare AI – top projects from 1,700+ teams nationwide
 ---
 
 ## 🛠️ Technical Skills
