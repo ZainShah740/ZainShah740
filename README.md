@@ -1,35 +1,8 @@
 # Muhammad Zain
-*Tech Explorer | AI & ML Enthusiast | Building Innovative Projects & Learning Cutting-Edge Technologies*
+*AI & Machine Learning Builder | Mechanical Engineering Student | Applying AI to Engineering, Simulation, and Real-World Systems*
 
 ---
 
-## 🏆 Key Achievements & Milestones
--  Shortlisted – National AI Wrapper Competition 2025 (Ignite × MoITT) for HeartCare AI – top projects from 1,700+ teams nationwide
----
-
-## 🛠️ Technical Skills
-
-### Proficient
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge&logo=matplotlib)
-![Seaborn](https://img.shields.io/badge/Seaborn-cyan?style=for-the-badge&logo=seaborn)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-
-### Currently Exploring & Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-blue?style=for-the-badge&logo=keras)
-![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge&logo=huggingface)
-![Automation](https://img.shields.io/badge/Automation-grey?style=for-the-badge&logo=python)
-
----
 ## 🚀 Featured Projects
 
 - **[Diabetes Risk Prediction using ML Classification](https://github.com/ZainShah740/ML-Classification-DiabetesRiskPrediction-Project5)**
@@ -41,8 +14,40 @@
 - **[House Price Prediction via Regression](https://github.com/ZainShah740/ML-Regression-HousePricePrediction-Project2)**
   <br>Estimates house prices using regression algorithms, covering EDA, model selection, and deployment for practical real estate scenarios.
 
+---
 
-## 🌐 Portfolio & Live Demos
+## 🛠 Tech Stack
+
+### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-yellow?style=for-the-badge&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-cyan?style=for-the-badge&logo=seaborn)
+
+### Development & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+### Currently Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-blue?style=for-the-badge&logo=keras)
+![Transformers](https://img.shields.io/badge/Transformers-yellow?style=for-the-badge&logo=huggingface)
+
+---
+
+  
+## 🏆 Achievements
+-  Shortlisted – National AI Wrapper Competition 2025 (Ignite × MoITT) for HeartCare AI – top projects from 1,700+ teams nationwide
+  🔗 [View project proof and details](https://github.com/ZainShah740/Achievements/tree/main/heartcare-ai-national-ai-wrapper-2025-shortlisted)
+
+---
+
+## 🌐 Platforms
 
 <p align="center">
   <a href="https://github.com/ZainShah740?tab=repositories">
@@ -67,7 +72,7 @@
 
 ## 🧭 Vision & Mission
 
-I am driven by the transformative power of Artificial Intelligence and Machine Learning to address real-world challenges and create solutions that matter. My mission: to build robust, data-driven models and AI products solving genuine human pain points. I believe in mastering fundamentals, continuous learning, and collaborative innovation to shape a better tech-driven future.
+Building AI, ML, and engineering simulation tools that solve real problems, demonstrate value, and push the boundaries of technology
 
 ---
 
@@ -90,13 +95,13 @@ I am driven by the transformative power of Artificial Intelligence and Machine L
 
 ## 🔗 Professional Call to Collaborate
 
-> *Open to internships, research partnerships, and innovative collaborations in AI/ML. If you have a big idea—even at 3 AM—let’s brainstorm and build together!*
+> *Open to internships, research partnerships, and innovative collaborations in AI/ML. If you have a bold idea—day or night—let’s build, experiment, and push technology forward together!*
 
 ---
 
-## 💬 Personal Touch 
+## 💬 Personal Touch
 
-> Relentlessly learning, building, and experimenting — turning challenges and failures into growth. Even if my routine is completely disturbed, my projects keep going. If you’re a fellow student or collaborator with a great idea even at 3 AM, call me out — I’m always ready to brainstorm and build. Working hard, hard, hard to create impactful AI projects and innovative solutions.
+> Relentlessly building and experimenting—projects keep moving even when routines break. Have a bold AI idea at 3 AM? Let’s brainstorm and turn it into real impact.
 
 ---
 
