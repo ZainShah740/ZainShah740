@@ -14,19 +14,7 @@
   <br>Developed a neural network to predict machine failures with 93.7% accuracy using real-world sensor data.  
   Implemented data preprocessing, feature scaling, and hyperparameter tuning to maximize reliability.  
   Enabled early failure prediction for proactive maintenance in industrial systems.
-
-
-## 🚀 Featured Projects
-
-- **[Diabetes Risk Prediction using ML Classification](https://github.com/ZainShah740/ML-Classification-DiabetesRiskPrediction-Project5)**
-  <br>Predicts diabetes risk using machine learning models on patient data, including preprocessing, feature engineering, and deployment.
-
-- **[Tumor Prediction with ML Algorithms](https://github.com/ZainShah740/ML-Classification-TumorPrediction-Project3)**
-  <br>Classifies tumor presence using real-world medical datasets with interactive visualization and end-to-end ML workflow.
-
-- **[House Price Prediction via Regression](https://github.com/ZainShah740/ML-Regression-HousePricePrediction-Project2)**
-  <br>Estimates house prices using regression algorithms, covering EDA, model selection, and deployment for practical real estate scenarios.
-
+  
 ---
 
 ## 🛠 Tech Stack
