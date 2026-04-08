@@ -5,6 +5,19 @@
 
 ## 🚀 Featured Projects
 
+- **[AI-Driven Prediction of Aerodynamic Noise (NASA Airfoil Dataset)](https://github.com/ZainShah740/engineering-ai-applications/tree/main/airfoil-self-noise-prediction)**
+  <br>Trained both Artificial Neural Network (ANN) and Random Forest models; selected Random Forest for superior performance (R²: 0.9077).  
+  Built an end-to-end ML pipeline including data preprocessing, feature analysis, and model optimization.  
+  Applied engineering insights to link AI predictions with potential design improvements in mechanical systems.
+
+- **[Predictive Maintenance of Industrial Machine](https://github.com/ZainShah740/engineering-ai-applications/tree/main/industrial_machine_failure_prediction)**
+  <br>Developed a neural network to predict machine failures with 93.7% accuracy using real-world sensor data.  
+  Implemented data preprocessing, feature scaling, and hyperparameter tuning to maximize reliability.  
+  Enabled early failure prediction for proactive maintenance in industrial systems.
+
+
+## 🚀 Featured Projects
+
 - **[Diabetes Risk Prediction using ML Classification](https://github.com/ZainShah740/ML-Classification-DiabetesRiskPrediction-Project5)**
   <br>Predicts diabetes risk using machine learning models on patient data, including preprocessing, feature engineering, and deployment.
 
